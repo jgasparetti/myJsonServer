@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "j@g.com",
+      "firstname": "J",
+      "password": "12345678",
+      "token": "tj"
+    },
+    {
+      "id": "2",
+      "email": "m@g.com",
+      "firstname": "M",
+      "password": "12345678",
+      "token": "tm"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": "2",
+      "image": "J",
+      "description": "#t #s #g"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "image": "K",
+      "description": "#t #s #g"
+    }
+  ]
+}
